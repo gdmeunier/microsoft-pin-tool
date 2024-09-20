@@ -24,7 +24,7 @@ The same goes for the **Microsoft PIN Tool**, part of Windows XP's *Base Smart C
 I modified the Microsoft PIN Tool by adding/modifying the following features:
 - I added a nice-looking EXE file icon from MySmartLogon's *EIDAuthenticate* software.
 - I hid & disabled the challenge request UI elements of the main window
-- I patched the **wpintool.exe* file to automatically re-enable the disabled-on-startup UI elements for unblocking the card
+- I patched the **wpintool.exe** file to automatically re-enable the disabled-on-startup UI elements for unblocking the card
 - I played around with Microsoft's **MUIRCT.exe** translation utility and generated French translations for both the original & ActivID versions of Microsoft's PIN Tool
 
 ## Last Note
